@@ -34,7 +34,7 @@
         "test": "phpunit --colors"
     },
     "require": {
-        "php": ">=8.2",
+        "php": ">=8.0",
         "symfony/http-client": "7.1.8.0",
         "psr/simple-cache": "^3.0",
         "symfony/cache": "^7.1",
