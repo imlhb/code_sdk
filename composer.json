@@ -1,13 +1,13 @@
 {
-    "name": "pfinalclub/coze_sdk",
+    "name": "imlhb/code_sdk",
     "description": "Coze AI PHP 版本的 SDK",
     "license": "MIT",
-    "homepage": "https://github.com/pfinalclub/coze_sdk",
+    "homepage": "https://github.com/imlhb/code_sdk",
     "keywords": [
         "coze",
         "AI",
-        "pfinal",
-        "PFinalClub"
+        "imlhb",
+        "code_sdk"
     ] ,
     "autoload": {
         "psr-4": {
@@ -21,9 +21,9 @@
     },
     "authors": [
         {
-            "name": "pfinal南丞",
-            "email":"lampxiezi@163.com",
-            "homepage": "http://friday-go.cc/"
+            "name": "vipl520",
+            "email":"vipl520@qq.com",
+            "homepage": "http://www.dkyx.cc/"
         }
     ],
     "scripts": {
