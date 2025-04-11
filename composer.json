@@ -6,6 +6,10 @@
     "minimum-stability": "stable",
     "license": "MIT",
     "homepage": "https://github.com/imlhb/code_sdk",
+    "support": {
+        "issues": "https://github.com/imlhb/code_sdk/issues",
+        "source": "https://github.com/imlhb/code_sdk"
+    },
     "keywords": [
         "coze",
         "AI",
@@ -38,7 +42,7 @@
     },
     "require": {
         "php": ">=8.0",
-        "symfony/http-client": "7.1.8.0",
+        "symfony/http-client": "^7.1",
         "psr/simple-cache": "^3.0",
         "symfony/cache": "^7.1",
         "firebase/php-jwt": "^6.10",
